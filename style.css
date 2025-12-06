@@ -24,7 +24,7 @@ body {
   }
 
   .projects {
-    background-color: #504a84;
+    background-color: #137547;
   }
 
   .project-card {
@@ -174,7 +174,7 @@ main {
 
 .main-btn:hover {
     box-shadow: 0 5px 25px rgba(1 1 1 / 40%);
-  background-color: #957fef;
+  background-color: #5bba6f;
   transform: scale(1.1);
 }
 
